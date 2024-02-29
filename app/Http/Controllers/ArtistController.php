@@ -21,7 +21,7 @@ class ArtistController extends Controller
      */
     public function create()
     {
-        //
+        ////
     }
 
     /**
